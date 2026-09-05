@@ -1,50 +1,56 @@
 # 👋 Hi, I'm Dhasarathi A
 
-### 💻 CSE Cyber Security Student | Developer | Tech Enthusiast
+### 💻 CSE Cyber Security Student • Developer • Tech Enthusiast
 
-I'm a **B.E. Computer Science & Engineering (Cyber Security)** student passionate about building practical software projects and continuously improving my development skills.
+> **Building projects. Learning technologies. Solving problems. Growing every day.**
 
-I enjoy turning ideas into working applications, exploring new technologies, and learning through hands-on projects.
+I'm a **B.E. Computer Science & Engineering (Cyber Security)** student interested in software development, cybersecurity, data, and emerging technologies.
 
----
-
-## 🚀 About Me
-
-* 🎓 B.E. Computer Science & Engineering (Cyber Security)
-* 💻 Interested in **Software Development & Cyber Security**
-* 🌱 Currently improving my skills in **React, Java, Python & Data Structures**
-* 🔐 Exploring **Cyber Security and secure software development**
-* 📊 Interested in **Data Analysis and Machine Learning**
-* 🛠️ I enjoy building real-world projects
-* 🎯 Goal: Become a skilled software developer and cybersecurity professional
+I enjoy transforming ideas into practical applications and learning by building real-world projects.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 💻 Programming Languages
+🎓 **B.E. Computer Science & Engineering (Cyber Security)**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+💡 Interested in **Software Development, Cybersecurity & Data**
+
+⚛️ Building applications with **React & JavaScript**
+
+☕ Strengthening my foundation in **Java & Data Structures**
+
+🐍 Exploring **Python & Data Analysis**
+
+🔐 Learning practical **Cybersecurity concepts**
+
+📊 Exploring **Machine Learning & AI**
+
+🚀 Currently working on projects that combine **web development, data and real-world problem solving**
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 💻 Programming
+
+`Java` `Python` `JavaScript`
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+`HTML` `CSS` `JavaScript` `React` `Vite`
 
-### 🗄️ Database & Data
+### 📊 Data & Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+`Python` `NumPy` `Pandas` `MySQL`
 
-### 🔧 Tools
+### 🔧 Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+`Git` `GitHub` `VS Code`
+
+### 🔐 Areas of Interest
+
+`Cybersecurity` `Data Analysis` `Machine Learning` `Web Development`
 
 ---
 
@@ -52,107 +58,116 @@ I enjoy turning ideas into working applications, exploring new technologies, and
 
 ### 📊 Attendance Management System
 
-A modern web-based attendance management system built with React.
+A modern web-based attendance management application designed to manage student attendance efficiently.
 
-**Tech:** React • JavaScript • HTML • CSS • Vite
-
-🔗 [View Project](https://github.com/dhasarathi70)
-
----
-
-### ☕ Java Data Structures
-
-A collection of Java implementations and practice programs covering important data structures and algorithms.
-
-**Tech:** Java • OOP • Data Structures • Algorithms
-
-🔗 [View Projects](https://github.com/dhasarathi70)
-
----
-
-### 🐍 Python Data Analysis
-
-Python-based practice and data analysis projects using libraries such as NumPy and Pandas.
-
-**Tech:** Python • NumPy • Pandas • Data Analysis
-
-🔗 [View Projects](https://github.com/dhasarathi70)
-
----
-
-### 🎨 React Projects
-
-A collection of frontend projects built while learning React, JavaScript and modern web development.
-
-**Tech:** React • JavaScript • CSS • Vite
-
-🔗 [View Projects](https://github.com/dhasarathi70)
-
----
-
+**Tech Stack:** React • JavaScript • HTML • CSS • Vite
 
 ---
 
 ### ✈️ Real-Time Airfare Price Index
 
-A project focused on collecting and analyzing real-time airfare data to develop an airfare price index for India and support Consumer Price Index analysis.
+A project focused on collecting and analyzing airfare data from airline and travel platforms to develop a **real-time airfare price index for India** and support Consumer Price Index analysis.
 
-**Tech:** React • Web Scraping • Data Processing • Machine Learning
+**Tech Stack:** Web Scraping • React • Data Processing • Machine Learning
 
-🚧 Currently in development
+🚧 **Currently in Development**
+
+---
+
+### ☕ Java & Data Structures
+
+A collection of Java programming exercises and implementations covering object-oriented programming and fundamental data structures.
+
+**Tech Stack:** Java • OOP • Data Structures • Algorithms
+
+---
+
+### 🐍 Python & Data Analysis
+
+Python projects and exercises focused on programming, data manipulation and analysis using popular Python libraries.
+
+**Tech Stack:** Python • NumPy • Pandas • Data Analysis
+
+---
+
+### ⚛️ React Projects
+
+Frontend projects created while learning React, component-based development and modern web technologies.
+
+**Tech Stack:** React • JavaScript • CSS • Vite
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-React & Frontend Development
+React & Modern Frontend
         ↓
 Java & Data Structures
         ↓
 Python & Data Analysis
         ↓
-Cyber Security
+Cybersecurity
         ↓
-Machine Learning
+Machine Learning & AI
         ↓
-Real-World Software Projects
+Full-Stack Development
 ```
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Build more real-world projects
-* 💻 Strengthen Java and Python
-* ⚛️ Become stronger in React development
-* 🧠 Improve Data Structures & Algorithms
-* 🔐 Develop practical cybersecurity skills
-* 📊 Learn more about Machine Learning
-* 🌐 Build and deploy full-stack applications
+* 🚀 Build more real-world applications
+* ⚛️ Become stronger in React and frontend development
+* ☕ Improve Java and Data Structures
+* 🐍 Advance my Python skills
+* 🔐 Develop practical cybersecurity knowledge
+* 📊 Learn Machine Learning and AI
+* 🌐 Build full-stack applications
 * 🤝 Contribute to open-source projects
+* 💼 Prepare for software development opportunities
 
 ---
 
-## 📈 GitHub Activity
+## 🏆 Certifications & Learning
 
-![Dhasarathi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhasarathi70\&show_icons=true\&theme=tokyonight)
+Currently building knowledge through courses, certifications and hands-on projects in:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhasarathi70\&layout=compact\&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/dhasarathi70">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Add your LinkedIn URL here -->
-</p>
+* 🤖 Artificial Intelligence & AI Tools
+* 🧠 Agent Skills & AI Fluency
+* 💻 Software Development
+* 🔐 Cybersecurity
+* ☁️ Cloud Technologies
+* 🐍 Python
+* ☕ Java
 
 ---
 
-### 💡 "Learn. Build. Improve. Repeat."
+## 📈 GitHub Journey
+
+> **Consistency over perfection.**
+
+I'm continuously improving my GitHub by documenting projects, practicing programming and sharing what I build while learning.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, students and technology enthusiasts.
+
+**GitHub:** `@dhasarathi70`
+
+**LinkedIn:** [Dhasarathi A](https://www.linkedin.com/in/dhasarathi-a-671652386/)
+
+---
+
+## ⚡ Developer Mindset
+
+```text
+Learn → Build → Break → Debug → Improve → Repeat
+```
+
+### 💡 "Every project is a step forward."
 
 ⭐ Thanks for visiting my profile!
