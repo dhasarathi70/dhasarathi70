@@ -151,14 +151,21 @@ Currently building knowledge through courses, certifications and hands-on projec
 I'm continuously improving my GitHub by documenting projects, practicing programming and sharing what I build while learning.
 
 ---
-
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, students and technology enthusiasts.
+<p align="left">
+  <a href="https://github.com/dhasarathi70">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dhasarathi-a-671652386/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-**GitHub:** `@dhasarathi70`
+### 💡 "Learn → Build → Improve → Repeat"
 
-**LinkedIn:** [Dhasarathi A](https://www.linkedin.com/in/dhasarathi-a-671652386/)
+⭐ Thanks for visiting my profile!
+
 
 ---
 
