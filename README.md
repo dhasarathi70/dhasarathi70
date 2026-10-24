@@ -1,6 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,50:161B22,100:0D1117&text=DHASARATHI%20A&fontColor=58A6FF&fontSize=42&fontAlignY=38&desc=CSE%20CYBER%20SECURITY%20STUDENT%20%7C%20DEVELOPER&descAlignY=60&descSize=16&descColor=C9D1D9" width="100%" />
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=dhasarathi70&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 <br>
 
