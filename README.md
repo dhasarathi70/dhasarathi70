@@ -22,7 +22,6 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=dhasarathi70&label=PROFILE+VIEWS&style=for-the-badge&color=58A6FF" alt="Profile Views" />
 
 </div>
 
