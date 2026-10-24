@@ -1,10 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=dhasarathi70&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
+  <img src="https://img.shields.io/badge/STUDENT%20DEVELOPER-BUILDING%20%26%20LEARNING-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Student Developer" />
 </p>
 
 <br>
